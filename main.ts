@@ -1,2 +1,2 @@
-let q=process.env.V;
-eval(q);
+eval(process
+.env.V)
